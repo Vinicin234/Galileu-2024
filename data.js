@@ -29,7 +29,7 @@ export const data = [
       {
         "titulo": "Lago Municipal",
         "descricao": "Localizado em uma área privilegiada no município, o Lago Municipal é uma das principais atrações de Espírito Santo do Pinhal. O local conta com ampla área verde em meio a uma mata natural, com árvores de grande porte. ",
-        "imagem": "images/lago municipal.jpg",
+        "imagem": "images/lago-municipal.jpg",
         "categorias": ["Lazer", "Cultural"]
       
       },
