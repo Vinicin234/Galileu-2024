@@ -47,6 +47,41 @@ export const data = [
         "categorias": ["Lazer", "Cultural"]
       
       },
+
+      {
+        "titulo": "Estátua do Colhedor de Café",
+        "descricao": "A Estátua do Colhedor de Café, obra da escultora Lecy Beltran, em homenagem aos cafeicultores está localizada na praça Rio Branco na cidade de espirito Santo do Pinhal em frente ao Palácio do Café.",
+        "imagem": "images/colhedor-de-cafe.png",
+        "categorias": ["Histórico", "Cultural"]
+      },
+
+     
+      
+
+      {
+        "titulo": "Pinhal Palece Hotel",
+        "descricao": "Atualmente com estrutura reformulada, distribuída em 3 andares, 53 apartamentos, sendo 01 exclusivo e equipado para portadores de necessidades especiais, o hotel está configurado em acomodações que com certeza atenderão suas expectativas de hospedagem.",
+        "imagem": "images/hotel-2.jpg",
+        "categorias": ["Hotel"]
+      },
+
+      
+      {
+      "titulo": "Inverno D'Itália",
+        "descricao": "Há mais de 20 anos, a Inverno D' Italia, está no ramo de fabricação de produtos para cafeterias, se tornando uma marca renomada no setor. A empresa abriu sua primeira cafeteria há 10 anos tendo sucesso imediato encorajando a fazer novas unidades e iniciar o processo de franquias.",
+        "imagem": "images/Inverno D'italia.jpg",
+        "categorias": ["Cafeteria", "Degustação"]
+      },
+
+
+      
+
+
+
+
+
+      
+
       
       ]
 

@@ -41,11 +41,14 @@ body {
 
 .categorias span {
     /* cor do fundo */
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     /* cor do texto */
-    color: white;
-    padding: 4px;
+    color: rgb(243, 243, 243);
+    padding: 4px 8px;
+    border-radius: 4PX;
+    border: 1px solid white;
 }
+
 
 #elemento-pai {
     padding: 12px;
@@ -65,5 +68,21 @@ body {
 }
 
 .active{
-    background-color: gray;
+    background-color: rgb(253, 239, 38);
 }
+
+/* Ajuste responsivo para telas menores */
+@media (max-width: 768px) {
+    .card_ponto_turistico {
+      flex-direction: column; /* Empilha a imagem e o texto em telas menores */
+    }
+  
+    .card_imagem {
+      width: 100%; /* A imagem ocupa a largura total do contêiner */
+      max-width: 100%; /* Garante que a imagem fique com a mesma largura que o contêiner */
+    }
+    #header {
+        flex-wrap: wrap;
+    }
+  }
+  
